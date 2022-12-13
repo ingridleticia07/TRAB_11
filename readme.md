@@ -4,7 +4,7 @@
 
 ## Como compilar e executar:
 
-Para rodar esse código é necessário o arquivo exemplovet.c que tem as informaçoes da main. Depois é só seguir os passos abaixo:
+Para rodar esse código é necessário o arquivo **exemplovet.c** que tem as informaçoes da main. Depois é só seguir os passos abaixo:
 
 1. gcc exemplovet.c TRAB_11.c -o teste
 2. ./teste
